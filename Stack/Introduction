@@ -1,0 +1,6 @@
+Stack is a linear data structure that follows a particular order in which the operations are performed. The stack ADT works on LIFO(Last In First Out) basis.
+In stack we can perform following Operations:
+1. Push() - To add an element at the top of the stack.
+2. POP() - To remove an element from top of the stack.
+3. Display() - To print the content of stack from top to bottom.
+4. Peek() - To print the top most element.
